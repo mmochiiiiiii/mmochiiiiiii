@@ -20,8 +20,8 @@ Welcome to my GitHub profile! 🚀
 
 ## Skills & Tools 🛠️  
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%7C%20C-blue)
-![Frameworks]()  
-![Tools]()  
+[Frameworks]()  
+[Tools]()  
 
 ---
 
