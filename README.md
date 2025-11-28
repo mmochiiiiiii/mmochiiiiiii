@@ -43,7 +43,7 @@
 
   <p><b>IDEs & Editors</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,vim&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,vim&perline=10" />
   </a>
 </div>
 
